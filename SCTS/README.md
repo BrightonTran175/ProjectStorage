@@ -1,0 +1,5 @@
+Swivelling Cable Tether System
+
+This project required the design and stress analysis of a swivelling cable tether system, required to rotation upon 2 axes and support the tension acted upon a rope by a weather balloon and subsequent wind force. This process included preliminary design, design development, material selection and quantitative stress analysis based on knowledge of the materials. The project also required knowledge about standard components, and how to apply them to engineering construction.
+
+The rope is connected to the system via a closed swage socket, which provides its first direction of rotation. This socket is fastened to a connecting piece that enables the second direction of rotation and secures the system to a base. This base is then bolted into a concrete slab, which is buried in the ground. The system can be assembled and disassembled with ease, as per project requirements. 
